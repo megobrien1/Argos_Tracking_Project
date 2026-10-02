@@ -87,3 +87,4 @@ while lineString != "":
     lineString = f.readline()
 
 ##Parses out only lines that fall into the desirable location class - 1, 2, or 3. 
+## checking git
